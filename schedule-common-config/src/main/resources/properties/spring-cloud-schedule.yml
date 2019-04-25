@@ -2,7 +2,7 @@
 configuration:  
   projectName: schedule
 server:
-  port: 80
+  port: 8085
 message:
   greeting: Hello from the configuration!
 eureka:
@@ -25,7 +25,7 @@ zuul:
 spring:  
   profiles: dev
 server:  
-  port: 80
+  port: 8088
 eureka:
   client:
     serviceUrl:

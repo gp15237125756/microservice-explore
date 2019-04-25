@@ -5,20 +5,16 @@ spring:
     config:
       server:
         git:
-          url: https://github.com/gp15237125756/microservice-explore.git
+          uri: https://github.com/gp15237125756/microservice-explore.git
           searchPaths: schedule-common-config/src/main/resources/properties
 
 eureka:
   instance:
-    hostname: localhost
+    preferIpAddress: true
   client:
-    registerWithEureka: false
-    fetchRegistry: false
     serviceUrl:
-      defaultZone: http://localhost:${server.port}/eureka/
+      defaultZone: http://localhost:8761/eureka/
     healthcheck:
           enabled: true
   server:
     waitTimeInMsWhenSyncEmpty: 0
-
-spring.cloud.config.discovery.enabled: true

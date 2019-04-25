@@ -8,3 +8,6 @@ eureka:
           enabled: true
   instance:
     preferIpAddress: true
+spring.cloud.config.discovery.enabled: true
+spring.cloud.config.profile: default
+spring.cloud.config.discovery.serviceId: config-server
