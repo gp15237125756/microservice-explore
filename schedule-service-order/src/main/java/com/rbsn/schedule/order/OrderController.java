@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class OrderController {
 
-    @Value("${zuul.routes.dogs.url}")
+    @Value("${test}")
     private String url;
 
     @GetMapping("call")

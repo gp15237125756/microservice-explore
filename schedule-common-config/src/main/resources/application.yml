@@ -7,7 +7,9 @@ spring:
         git:
           uri: https://github.com/gp15237125756/microservice-explore.git
           searchPaths: schedule-common-config/src/main/resources/properties
-
+management:
+  security:
+    enabled: false
 eureka:
   instance:
     preferIpAddress: true
