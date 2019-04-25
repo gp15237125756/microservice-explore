@@ -1,0 +1,24 @@
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          url: https://github.com/gp15237125756/treasure_cloud_config_repo.git
+          searchPaths:
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://localhost:${server.port}/eureka/
+    healthcheck:
+          enabled: true
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+
+spring.cloud.config.discovery.enabled: true
