@@ -1,5 +1,10 @@
 spring:
   application:
     name: web-gateway
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://localhost:8888
 encrypt:
   failOnError: false
