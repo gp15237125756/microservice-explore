@@ -7,4 +7,4 @@ eureka:
   instance:
     preferIpAddress: true
 test:
-  xueting
+  xuetu
