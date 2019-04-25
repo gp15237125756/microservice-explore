@@ -1,29 +1,21 @@
 #default configuration
-configuration:  
-  projectName: schedule
+spring:
+  profiles:
+    active: dev
+---
+spring:
+  profiles: dev
 server:
   port: 8085
-message:
-  greeting: Hello from the configuration!
 eureka:
   client:
     serviceUrl:
       defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
   instance:
     preferIpAddress: true
-zuul:  
-  routes:
-    cats:
-      url: http://cat-service:9000
-      path: /cats/**
-      stripPrefix: false
-    dogs:
-      url: http://dog-service:9001
-      path: /dogs/**
-      stripPrefix: false
 ---
 spring:  
-  profiles: dev
+  profiles: test
 server:  
   port: 8088
 eureka:
@@ -32,14 +24,4 @@ eureka:
       defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
   instance:
     preferIpAddress: true
-zuul:  
-  routes:
-    cats:
-      url: http://localhost:9000
-      path: /cats/**
-      stripPrefix: false
-    dogs:
-      url: http://localhost:9001
-      path: /dogs/**
-      stripPrefix: false
 debug: true
