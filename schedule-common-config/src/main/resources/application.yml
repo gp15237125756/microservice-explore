@@ -9,6 +9,10 @@ spring:
           searchPaths: configuration
           username:
           password:
+  sleuth:
+    traceId128: true
+    sampler:
+      probability: 1.0
 management:
   security:
     enabled: false
@@ -22,3 +26,9 @@ eureka:
           enabled: true
   server:
     waitTimeInMsWhenSyncEmpty: 0
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
+# Adds trace and span IDs to logs (when a trace is in progress)

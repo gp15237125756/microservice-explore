@@ -1,6 +1,6 @@
 spring:
   application:
-    name: web-order
+    name: hystrix-dashboard
   profiles:
     active: dev
   cloud:
@@ -8,7 +8,3 @@ spring:
       name: app
       uri: http://localhost:8888
       profile: test
-  sleuth:
-    traceId128: true
-    sampler:
-      probability: 1.0

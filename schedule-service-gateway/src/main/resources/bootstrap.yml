@@ -6,5 +6,9 @@ spring:
   cloud:
     config:
       uri: http://localhost:8888
+  sleuth:
+    traceId128: true
+    sampler:
+      probability: 1.0
 encrypt:
   failOnError: false

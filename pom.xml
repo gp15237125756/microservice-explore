@@ -10,6 +10,8 @@
 		<module>schedule-service-gateway</module>
 		<module>schedule-service-order</module>
 		<module>schedule-common-config</module>
+		<module>schedule-service-zipkin</module>
+		<module>schedule-service-hystrix</module>
 	</modules>
 	<groupId>com.rbsn</groupId>
 	<artifactId>schedule</artifactId>
@@ -27,6 +29,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Greenwich.SR1</spring-cloud.version>
+		<sleuth.version>2.1.0.RELEASE</sleuth.version>
 		<mybatis.version>3.2.8</mybatis.version>
 		<mybatis.spring.version>1.2.2</mybatis.spring.version>
 		<pagehelper.version>4.1.6</pagehelper.version>
@@ -50,10 +53,6 @@
 	<dependencies>
 		<!--<dependency>-->
 			<!--<groupId>org.springframework.cloud</groupId>-->
-			<!--<artifactId>spring-cloud-starter</artifactId>-->
-		<!--</dependency>-->
-		<!--<dependency>-->
-			<!--<groupId>org.springframework.cloud</groupId>-->
 			<!--<artifactId>spring-cloud-starter-consul-config</artifactId>-->
 		<!--</dependency>-->
 		<!--<dependency>-->
@@ -68,10 +67,10 @@
 			<!--<groupId>org.springframework.cloud</groupId>-->
 			<!--<artifactId>spring-cloud-starter-openfeign</artifactId>-->
 		<!--</dependency>-->
-		<!--<dependency>-->
-			<!--<groupId>org.springframework.cloud</groupId>-->
-			<!--<artifactId>spring-cloud-starter-zookeeper-config</artifactId>-->
-		<!--</dependency>-->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-zipkin</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -99,11 +98,6 @@
 		</dependency>
 		<!-- fastjson end -->
 
-		<!--<dependency>-->
-			<!--<groupId>org.springframework.restdocs</groupId>-->
-			<!--<artifactId>spring-restdocs-mockmvc</artifactId>-->
-			<!--<scope>test</scope>-->
-		<!--</dependency>-->
 	</dependencies>
 
 	<dependencyManagement>
@@ -112,6 +106,14 @@
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>
 				<version>${spring-cloud.version}</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<!-- Sleuth automatically adds trace interceptors when in the classpath -->
+			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-sleuth</artifactId>
+				<version>${sleuth.version}</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
