@@ -9,6 +9,6 @@ target
 *.jar
 *.war
 .idea/
-
-build/
 target/
+
+
