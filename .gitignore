@@ -12,3 +12,5 @@ target
 target/
 
 
+.idea/misc.xml
+.idea/workspace.xml
