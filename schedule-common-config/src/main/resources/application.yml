@@ -7,6 +7,8 @@ spring:
         git:
           uri: https://github.com/gp15237125756/microservice-explore.git
           searchPaths: configuration
+          username:
+          password:
 management:
   security:
     enabled: false

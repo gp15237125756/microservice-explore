@@ -5,7 +5,8 @@ spring:
     active: dev
   cloud:
     config:
+      name: app
       uri: http://localhost:8888
-      profile: dev
+      profile: test
 encrypt:
   failOnError: false
