@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2be69321-9aa1-4624-9930-3736cee538a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/schedule-common-core/target/" />
@@ -37,8 +36,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="89">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -403,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556266932417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改.gitignore">
+      <created>1556267260576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556267260576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -426,15 +432,15 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15204236" side_tool="true" visible="true" weight="0.3398693" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15582451" side_tool="true" visible="true" weight="0.37091503" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.50075644" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.8479576" visible="true" weight="0.3398693" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.8441755" visible="true" weight="0.37091503" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81467474" weight="0.5147059" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.65128595" weight="0.26633987" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6490166" weight="0.49019608" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.18078668" />
-      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.23600605" />
+      <window_info anchor="bottom" id="SonarLint" order="7" sideWeight="0.49924356" weight="0.32843137" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.19894099" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -493,6 +499,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -511,9 +525,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/base/BaseDO.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/rbsn/schedule/ScheduleApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisClusterManagerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -811,10 +822,17 @@
         <state relative-caret-position="-195" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="89">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
