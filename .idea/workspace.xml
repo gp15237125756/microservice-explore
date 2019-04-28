@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list id="d382a342-5827-41e1-9d1a-6575f2732046" name="ignore" comment="" />
     <list default="true" id="2be69321-9aa1-4624-9930-3736cee538a0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/schedule-common-core/target/" />
@@ -23,26 +24,7 @@
     <favorites_list name="microservice-explore" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1475">
-              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -141,7 +123,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1366" />
     <option name="height" value="728" />
   </component>
@@ -161,6 +143,24 @@
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
               <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -179,52 +179,7 @@
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +196,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27242154" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -390,6 +345,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2be69321-9aa1-4624-9930-3736cee538a0" name="Default" comment="" />
+      <changelist id="d382a342-5827-41e1-9d1a-6575f2732046" name="ignore" comment="" />
       <created>1555921594685</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -409,7 +365,28 @@
       <option name="project" value="LOCAL" />
       <updated>1556267260576</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改.gitignore">
+      <created>1556267331915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556267331915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改.gitignore">
+      <created>1556267354715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556267354715</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改.gitignore">
+      <created>1556269799003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556269799003</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -423,38 +400,35 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.32843137" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49924356" weight="0.32843137" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30882353" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15582451" side_tool="true" visible="true" weight="0.37091503" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2806354" side_tool="true" visible="true" weight="0.22222222" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.50075644" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.8441755" visible="true" weight="0.37091503" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.7193646" visible="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81467474" weight="0.5147059" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6490166" weight="0.49019608" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.64220876" weight="0.83986926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.23600605" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.18532526" />
       <window_info anchor="bottom" id="SonarLint" order="7" sideWeight="0.49924356" weight="0.32843137" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.19894099" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50121653" side_tool="true" weight="0.19894099" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8645991" weight="0.50490195" />
-      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30882353" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -468,9 +442,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.69742817" weight="0.6405229" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.4977307" />
@@ -479,7 +453,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.65733737" weight="0.4591503" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.18532526" side_tool="true" weight="0.9003268" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.69742817" weight="0.6405229" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.30882353" />
@@ -525,7 +499,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/rbsn/schedule/ScheduleApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisClusterManagerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -767,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1475">
-          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule-common-config/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -829,10 +795,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="70">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
         </state>
       </provider>
     </entry>
