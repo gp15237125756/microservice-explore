@@ -1,3 +1,5 @@
 spring:
   application:
     name: config-server
+  profiles:
+    active: native  #表示从项目类路径读取配置 去掉则从git读取

@@ -1,5 +1,16 @@
 spring:
   application:
     name: web-gateway
+  profiles:
+    active: dev
+  cloud:
+    config:
+      name: app
+      uri: http://localhost:8888
+      profile: test
+  sleuth:
+    traceId128: true
+    sampler:
+      probability: 1.0
 encrypt:
   failOnError: false

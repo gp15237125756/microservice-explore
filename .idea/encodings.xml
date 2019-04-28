@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/schedule-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/schedule-facade-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/schedule-service-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-service-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/schedule-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-service-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-web-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shcedule-service-feign" charset="UTF-8" />
   </component>
 </project>

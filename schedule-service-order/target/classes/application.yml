@@ -1,8 +1,11 @@
 server:
   port: 8081
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
-  instance:
-    preferIpAddress: true
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+#spring.cloud.config.profile: dev
+#spring.cloud.config.discovery.serviceId: config-server

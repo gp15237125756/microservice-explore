@@ -4,6 +4,8 @@ spring:
   cloud:
     config:
       server:
+        native:
+          searchLocations: configuration
         git:
           uri: https://github.com/gp15237125756/microservice-explore.git
           searchPaths: configuration

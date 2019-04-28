@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>schedule-common-core</artifactId>
-    <name>schedule-common-core</name>
-    <packaging>jar</packaging>
+
     <dependencies>
         <!-- Apache工具组件 start-->
         <dependency>
