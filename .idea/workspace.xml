@@ -1,127 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="d382a342-5827-41e1-9d1a-6575f2732046" name="ignore" comment="" />
     <list default="true" id="2be69321-9aa1-4624-9930-3736cee538a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/schedule-common-config/src/main/resources/configuration/app-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-common-config/src/main/resources/configuration/app-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-common-config/src/main/resources/configuration/app.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/src/main/java/com/rbsn/schedule/gateway/GatewayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/src/main/java/com/rbsn/schedule/gateway/restTemplate/RestTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule-web-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shcedule-service-feign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configuration/app.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-config/schedule-common-config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-config/schedule-common-config.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-config/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-config/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-config/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/schedule-common-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/schedule-common-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/base/BaseDO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/base/BaseDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/base/BaseParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/base/BaseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/base/BaseServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/constants/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/constants/PublicEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/pojo/param/PageParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/aware/UserAware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/ColumnInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/CommandInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/EntityInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/JdbcHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/MapperHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/PojoHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/generator/TableInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/jedis/JedisClusterManagerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/jedis/JedisManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/jedis/JedisSingleManagerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/IdManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/IdManagerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/SnowflakeIdWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/SystemClock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/SystemClock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/SystemClock$InstanceHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/support/key/SystemClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/CheckUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/CheckUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/MybatisGeneratorUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/PropertiesUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/PropertyUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/StringUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/SysoutUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/classes/com/rbsn/schedule/common/util/VelocityUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/schedule-common-core-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/target/schedule-common-core-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-common-core/target/schedule-common-core-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/target/schedule-common-core-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-eureka-server/schedule-eureka-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-eureka-server/schedule-eureka-server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-eureka-server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-eureka-server/target/schedule-eureka-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-eureka-server/target/schedule-eureka-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-eureka-server/target/schedule-eureka-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-eureka-server/target/schedule-eureka-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-facade-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-facade-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-facade-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-facade-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-facade-gateway/target/schedule-facade-gateway-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-facade-gateway/target/schedule-facade-gateway-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-facade-gateway/target/schedule-facade-gateway-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-facade-gateway/target/schedule-facade-gateway-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/schedule-service-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/schedule-service-gateway.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/target/schedule-service-gateway-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/target/schedule-service-gateway-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-gateway/target/schedule-service-gateway-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-gateway/target/schedule-service-gateway-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-hystrix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-hystrix/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/schedule-service-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/schedule-service-order.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/src/main/java/com/rbsn/schedule/order/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/src/main/java/com/rbsn/schedule/order/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/classes/com/rbsn/schedule/order/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/classes/com/rbsn/schedule/order/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/classes/com/rbsn/schedule/order/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/classes/com/rbsn/schedule/order/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/schedule-service-order-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/schedule-service-order-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule-service-order/target/schedule-service-order-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-service-order/target/schedule-service-order-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+    <list id="d382a342-5827-41e1-9d1a-6575f2732046" name="ignore" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/schedule-common-core/target/" />
     <ignored path="$PROJECT_DIR$/schedule-facade-gateway/target/" />
@@ -159,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule-service-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="78">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -211,7 +104,6 @@
         <option value="$PROJECT_DIR$/schedule-common-config/pom.xml" />
         <option value="$PROJECT_DIR$/schedule-common-config/src/main/java/com/rbsn/schedule/config/Application.java" />
         <option value="$PROJECT_DIR$/schedule-common-config/src/main/resources/properties/spring-cloud-schedule.yml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/param/PageParam.java" />
         <option value="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java" />
@@ -238,6 +130,7 @@
         <option value="$PROJECT_DIR$/schedule-service-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java" />
         <option value="$PROJECT_DIR$/schedule-service-order/src/main/java/com/rbsn/schedule/order/Application.java" />
         <option value="$PROJECT_DIR$/schedule-web-gateway/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -292,423 +185,7 @@
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-facade-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-zipkin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="zipkin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="restTemplate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-web-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
               <item name="shcedule-service-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="shcedule-service-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="shcedule-service-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="shcedule-service-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="shcedule-service-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rbsn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="shcedule-service-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -960,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556419050493</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="（1）删除无用代码&#10;（2）将公共pom中spring-boot-starter-web和spring-boot-starter-actuator移除到子模块&#10;（3）增加gateway微服务网关">
+      <created>1556441813642</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556441813642</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -985,8 +469,8 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.18835099" side_tool="true" weight="0.39215687" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.5559758" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.71785176" weight="0.40359476" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.811649" visible="true" weight="0.014705882" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.71785176" visible="true" weight="0.34640524" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.811649" weight="0.5816994" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.8229955" weight="0.83986926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -1072,23 +556,14 @@
     <MESSAGE value="修改.gitignore" />
     <MESSAGE value="删除版权代码" />
     <MESSAGE value="CheckUtil工具类修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="CheckUtil工具类修改" />
+    <MESSAGE value="（1）删除无用代码&#10;（2）将公共pom中spring-boot-starter-web和spring-boot-starter-actuator移除到子模块&#10;（3）增加gateway微服务网关" />
+    <option name="LAST_COMMIT_MESSAGE" value="（1）删除无用代码&#10;（2）将公共pom中spring-boot-starter-web和spring-boot-starter-actuator移除到子模块&#10;（3）增加gateway微服务网关" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule-common-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1407,8 +882,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule-service-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="78">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
