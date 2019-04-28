@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="d382a342-5827-41e1-9d1a-6575f2732046" name="ignore" comment="" />
     <list default="true" id="2be69321-9aa1-4624-9930-3736cee538a0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java" afterDir="false" />
     </list>
+    <list id="d382a342-5827-41e1-9d1a-6575f2732046" name="ignore" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/schedule-common-core/target/" />
     <ignored path="$PROJECT_DIR$/schedule-facade-gateway/target/" />
@@ -24,7 +24,44 @@
     <favorites_list name="microservice-explore" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="DaoException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/exception/DaoException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/exception/CheckException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/exception/ServiceException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +96,6 @@
         <option value="$PROJECT_DIR$/schedule-service-gateway/src/main/java/com/rbsn/schedule/gateway/Application.java" />
         <option value="$PROJECT_DIR$/schedule-service-order/src/main/java/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/schedule-common-core/pom.xml" />
-        <option value="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java" />
         <option value="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/PropertyUtil.java" />
         <option value="$PROJECT_DIR$/schedule-service-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/schedule-service-gateway/src/main/resources/bootstrap.yml" />
@@ -78,6 +114,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/schedule-common-config/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/param/PageParam.java" />
+        <option value="$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java" />
       </list>
     </option>
   </component>
@@ -133,6 +171,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,51 +184,73 @@
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-config" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
-              <item name="schedule-service-order" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-common-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-explore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-explore" type="462c0819:PsiDirectoryNode" />
+              <item name="schedule-facade-gateway" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556269799003</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改.gitignore">
+      <created>1556412725202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556412725202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="删除版权代码">
+      <created>1556418938805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556418938805</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -400,6 +477,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
@@ -407,14 +485,14 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2806354" side_tool="true" visible="true" weight="0.22222222" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.28139183" side_tool="true" visible="true" weight="0.0" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.50075644" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.7193646" visible="true" weight="0.22222222" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.71860814" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81467474" weight="0.5147059" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.64220876" weight="0.83986926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.18532526" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.25340393" />
       <window_info anchor="bottom" id="SonarLint" order="7" sideWeight="0.49924356" weight="0.32843137" />
       <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.19894099" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -424,14 +502,15 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8645991" weight="0.50490195" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30882353" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30882353" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81467474" weight="0.0" />
@@ -442,22 +521,21 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.69742817" weight="0.6405229" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.4977307" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8645991" weight="0.50490195" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.65733737" weight="0.4591503" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.18532526" side_tool="true" weight="0.9003268" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.69742817" weight="0.6405229" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.30882353" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.4977307" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -492,103 +570,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改.gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改.gitignore" />
+    <MESSAGE value="删除版权代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除版权代码" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisClusterManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisSingleManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-facade-gateway/src/main/java/com/rbsn/schedule/gateway/service/TestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-facade-gateway/src/main/java/com/rbsn/schedule/gateway/doo/TestDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-facade-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-service-order/schedule-service-order.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2550" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/PropertiesUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/App.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/context/support/AbstractRefreshableWebApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1693">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/ApplicationEventPublisher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.4.RELEASE/spring-boot-2.1.4.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="72" column="28" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.4.RELEASE/spring-boot-2.1.4.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListeners.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="80" column="28" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.4.RELEASE/spring-boot-2.1.4.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="169" column="29" selection-start-line="169" selection-start-column="22" selection-end-line="169" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule-service-order/src/main/java/resources/bootstrap.yml" />
     <entry file="file://$PROJECT_DIR$/schedule-eureka-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -606,24 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="321" selection-start-line="321" selection-end-line="321" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/MybatisGeneratorUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/PropertyUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="303" column="20" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -761,13 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule-common-config/src/main/resources/properties/spring-cloud-schedule.yml" />
     <entry file="file://$PROJECT_DIR$/schedule-common-config/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -809,6 +777,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1875">
           <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/PropertyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7450">
+          <caret line="303" column="20" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/aware/UserAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/key/SystemClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/key/SnowflakeIdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/key/IdManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/exception/DaoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/exception/CheckException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/param/PageParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisSingleManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/support/jedis/JedisClusterManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/base/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/base/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/exception/ServiceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-common-core/src/main/java/com/rbsn/schedule/common/util/CheckUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
