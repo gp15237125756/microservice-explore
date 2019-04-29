@@ -1,0 +1,14 @@
+server:
+  port: 8083
+ribbon:  #启用负载均衡
+  eureka:
+    enabled: true
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+#spring.cloud.config.profile: dev
+#spring.cloud.config.discovery.serviceId: config-server
