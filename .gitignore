@@ -1,16 +1,9 @@
-.idea
-.classpath
-.project
 *.iml
 target
 *.log
-
 *.class
 *.jar
-*.war
+.idea
 .idea/
 target/
 
-
-.idea/misc.xml
-.idea/workspace.xml
