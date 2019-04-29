@@ -1,6 +1,6 @@
 # microservice-explore
 
-<p align="center">
+<p align="left">
   <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996icu_img"></a>
   <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996icu_img"></a>
   <a href="#"><img src="https://img.shields.io/badge/join-welcome-brightgreen.svg" alt="attitude_img"></a>
